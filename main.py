@@ -1,5 +1,5 @@
 #neptunium source code without dangerous elements
-#copywrite (c) ChenSijia 2023
+#copyright (c) ChenSijia 2023
 
 #import
 
