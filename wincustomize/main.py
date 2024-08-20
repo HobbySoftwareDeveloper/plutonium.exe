@@ -1,5 +1,5 @@
 #neptunium source code without dangerous elements
-#copywrite (c) HobbySoftwareDeveloper 2023-2024
+#copyright (c) HobbySoftwareDeveloper 2023-2024
 
 #import
 
